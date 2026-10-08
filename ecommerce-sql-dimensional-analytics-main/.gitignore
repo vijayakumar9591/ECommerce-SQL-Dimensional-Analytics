@@ -1,0 +1,9 @@
+# IDE / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# SQL dumps / local files
+*.bak
+*.tmp
